@@ -23,7 +23,6 @@ My name is Daniele Santi, better known as Im_Not_Mine33, I am 17 years old and I
     <img alt="Intellij" src="https://img.shields.io/badge/intelliJidea-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
     <img alt="VisualStudio" src="https://img.shields.io/badge/VisualStudio-000000.svg?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
-<h6>Working on other projects too...</h6>
 <h2>🌐 I can speak in</h2>
 <p>
 <ul>
