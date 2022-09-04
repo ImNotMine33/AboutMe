@@ -39,8 +39,5 @@ My name is Daniele Santi, better known as Im_Not_Mine33, I am 17 years old and I
     <img src="https://img.shields.io/badge/daniele@imnotmine.it-eMail-000000.svg?style=for-the-badge">
     </a>
 </p>
-<p align="center">
-    <img src="https://lanyard.cnrad.dev/api/467036003513663490">
-</p>
 
 ***
